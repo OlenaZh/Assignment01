@@ -91,6 +91,13 @@ window.alert (x + "" +y);
 var myName;
 myName = "Olena";
 
-//13 I dont see my alert box. What am I doing wrong?
+//13 
+
+//14 I dont see my alert box. What am I doing wrong?
 var text = "Hello Zak Ruvalcaba.\n Welcome to the JavaScript class!";
 alert (text);
+
+//15
+var firstName = prompt ("Enter your first name");
+
+
