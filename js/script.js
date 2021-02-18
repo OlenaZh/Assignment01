@@ -102,3 +102,15 @@ var firstName = prompt ("Enter your first name");
 
 //16
 var course = prompt ("What class are you taking?");
+
+//17
+var x = 10;
+var y = 20;
+var total = x + y;
+window.console.log ("total");
+
+//18
+var x = 20;
+var y  = 20;
+var total = x+y;
+window.console.lig ("total");
