@@ -62,4 +62,10 @@ var city = "San Diego";
 //3
 var firstName="Olena", lastName = "Zheliabina", city = "San Diego";
 
+//6.	Create a variable. Add a number and a string and display the coerced result in the browser’s console window. 
+
+var yearsLivingSD = 4;
+alert("Olena has been living in San Diego for " + yearsLivingSD + "years.");
+window.console.log(alert);
+
 
