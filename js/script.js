@@ -18,4 +18,9 @@ fales
 null
 
 
-// STEP 3
+// examples of complex / variable expressions
+var myName;
+myName = "Olena";
+
+var isStudent;
+isStudent=true;
