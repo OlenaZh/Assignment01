@@ -5,7 +5,7 @@ let currentMonth
 let summerMonth
 let myLibraryFunction
 
-//numeric literal expression
+//numeric literal expressionll
 45
 
 //a string literal expression
