@@ -1,6 +1,6 @@
 // Converting identifiers to Camel Case notation
 let someMonth;
-function theMonth();
+function theMonth()
 let currentMonth;
 let summerMonth;
 let myLibraryFunction
@@ -9,7 +9,7 @@ let myLibraryFunction
 45
 
 //a string literal expression
-"Hi there!"
+"Hi there!";
 
 //a Boolean literal expression 
 fales
