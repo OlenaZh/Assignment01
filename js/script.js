@@ -66,6 +66,6 @@ var firstName="Olena", lastName = "Zheliabina", city = "San Diego";
 
 var yearsLivingSD = 4;
 alert("Olena has been living in San Diego for " + yearsLivingSD + "years.");
-window.console.log (yearsLivingSD)
+window.console.log (yearsLivingSD);
 
 
