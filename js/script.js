@@ -66,6 +66,9 @@ var firstName="Olena", lastName = "Zheliabina", city = "San Diego";
 
 var yearsLivingSD = 4;
 alert("Olena has been living in San Diego for " + yearsLivingSD + "years.");
-window.console.log (yearsLivingSD);
+window.console.log (yearsLivingSD); //Doesn`t work. What am I doing wrong?
 
+//7.	Create two variables. For the first variable, add a Boolean and a string and display the coerced result. For the second variable, add a number and a Boolean and display the coerced result. 
+
+var
 
