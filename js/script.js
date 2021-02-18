@@ -24,3 +24,14 @@ myName = "Olena";
 
 var isStudent;
 isStudent=true;
+
+//declare variables
+var firstName;
+var lastName;
+var address;
+var city; 
+var state; 
+var zipCode; 
+var yourAge; 
+var referralSource;
+var mayWeContactYou;
