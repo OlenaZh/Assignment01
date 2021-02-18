@@ -35,3 +35,31 @@ var zipCode;
 var yourAge; 
 var referralSource;
 var mayWeContactYou;
+
+//3 ways for declaring and assigning value
+//declaring
+//1
+var firstName;
+var lastName;
+var city; 
+//2
+var firstName, lastName, city;
+
+//assigning
+//1
+var firstName;
+var lastName;
+var city; 
+firstName = "Olena";
+lastName = "Zheliabina";
+city = "San Diego";
+
+//2
+var firstName = "Olena";
+var lastName = "Zheliabina";
+var city = "San Diego";
+
+//3
+var firstName="Olena", lastName = "Zheliabina", city = "San Diego";
+
+
