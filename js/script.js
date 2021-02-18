@@ -70,5 +70,10 @@ window.console.log (yearsLivingSD); //Doesn`t work. What am I doing wrong?
 
 //7.	Create two variables. For the first variable, add a Boolean and a string and display the coerced result. For the second variable, add a number and a Boolean and display the coerced result. 
 
-var
+var nyName = "Olena";
+var isInstructor = false;
+//Can`t do it. Dont know how to. Need more practice and examples. 
 
+//8.	Is the following string literal valid? If not, how would you fix it?
+let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I am not sure about the former.\"';
+window.console.log(someString);
