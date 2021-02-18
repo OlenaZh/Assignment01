@@ -81,8 +81,16 @@ window.console.log(someString);
 //9 
 //10
 
-//11
+//11 Can not see result. What am I doing wrong?
 
 var x = "Hello Zak Ruvalcaba,";
 var y = "welcome to the JavaScript class!";
 window.alert (x + "" +y);
+
+//12
+var myName;
+myName = "Olena";
+
+//13
+var text = "Hello Zak Ruvalcaba.\n Welcome to the JavaScript class!";
+alert (text);
