@@ -77,3 +77,12 @@ var isInstructor = false;
 //8.	Is the following string literal valid? If not, how would you fix it?
 let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I am not sure about the former.\"';
 window.console.log(someString);
+
+//9 
+//10
+
+//11
+
+var x = "Hello Zak Ruvalcaba,";
+var y = "welcome to the JavaScript class!";
+window.alert (x + "" +y);
