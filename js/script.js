@@ -1,8 +1,8 @@
 // Converting identifiers to Camel Case notation
-let someMonth;
+let someMonth
 function theMonth()
-let currentMonth;
-let summerMonth;
+let currentMonth
+let summerMonth
 let myLibraryFunction
 
 //numeric literal expression
