@@ -100,4 +100,5 @@ alert (text);
 //15
 var firstName = prompt ("Enter your first name");
 
-
+//16
+var course = prompt ("What class are you taking?");
